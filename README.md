@@ -42,7 +42,7 @@ Contains solutions to homework assignments. Click [here](https://dhole.github.io
       <td>
         <ul>
           <li><a href="hw01/src/problem1.rs">Vector & Slice Manipulation</a> → :green_apple: </li>
-          <li>Matrix Multiplication → :green_apple:</li>
+          <li><a href="hw01/src/problem2.rs">Matrix Multiplication</a> → :green_apple:</li>
           <li>Sieve of Eratosthenes → :tomato: </li>
           <li>Towers of Hanoi → :tomato: </li>
         </ul>
